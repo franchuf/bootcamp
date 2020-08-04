@@ -10,7 +10,11 @@ h1 {
     font-family: "Montserrat", sans-serif;
     font-size: 3rm;
     line-height: 1.5;
-    
+
+    }
+h2
+{
+    font-size: 3rem;
 }
 .container-fluid  {
     padding: 3% 15%;
@@ -34,4 +38,10 @@ h1 {
     font-family: Ubuntu;
     font-weight: bold;
     font-size: 2.5rem;
+}
+#testimonials {
+    padding: 7% 15%;
+    text-align: center ;
+    background-color: #ef8172;
+    
 }
