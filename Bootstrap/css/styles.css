@@ -14,13 +14,21 @@ h1 {
     }
 h2{    
     font-family: "Montserrat", sans-serif;
-    font-size: 3rem;
+    font-size: 1.5rem;
     line-height: 1.5;
 }
 .icon{
     color: #ef8172;
     margin-bottom: 1rem;
 
+
+}
+
+.doggy, .testimonial-image {
+
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
 }
 .icon:hover{
     color: #ff4c68;
@@ -29,7 +37,18 @@ h2{
 h3{
     font-family: "Montserrat", sans-serif;
 }
-p{
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    width: %;
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+{
     color: grey;
 }
 .container-fluid  {
@@ -55,7 +74,6 @@ p{
     font-weight: bold;
     font-size: 2.5rem;
 }
-<<<<<<< HEAD
 
 /* features section */
 
@@ -66,11 +84,13 @@ p{
 .feature-box {
     text-align: center;
     padding: 5%;
-=======
+    
+}    
+
+
 #testimonials {
     padding: 7% 15%;
     text-align: center ;
     background-color: #ef8172;
 
 }
->>>>>>> desde-el-obrador
