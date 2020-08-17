@@ -1,0 +1,96 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+#title{
+    background-color: #ff4c68;
+    color: white;
+}
+h1 { 
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rm;
+    line-height: 1.5;
+
+    }
+h2{    
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+
+
+}
+
+.doggy, .testimonial-image {
+
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+h3{
+    font-family: "Montserrat", sans-serif;
+}
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+{
+    color: grey;
+}
+.container-fluid  {
+    padding: 3% 15%;
+}
+/* navigation bar */
+
+.navbar{
+    padding-bottom: 2.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.iphone {
+    transform: rotate(25deg);
+}
+
+.navfran{
+    padding-left: 0;
+}
+.navbar-brand{ 
+    font-family: Ubuntu;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+/* features section */
+
+#features {
+
+    padding: 7% 15%;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+    
+}    
+
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center ;
+    background-color: #ef8172;
+
+}
